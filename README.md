@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demirfirat&label=Profile%20views&color=599122&style=flat" alt="demirfirat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rattoliverkali" target="blank"><img src="https://img.shields.io/twitter/follow/rattoliverkali?logo=twitter&style=for-the-badge" alt="rattoliverkali" /></a> </p>
-
 - 📫 How to reach me **firat.23d@gmail.com**
 
-- 📄 Know about my experiences [Social](https://twitter.com/RatToliverkali)
+- 📄 Know about my experiences [https://twitter.com/RatToliverkali](https://twitter.com/RatToliverkali)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=demirfirat&show_icons=true&locale=en&layout=compact" alt="demirfirat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demirfirat&" alt="demirfirat" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demirfirat&theme=dark" alt="demirfirat" /></p>
