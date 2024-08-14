@@ -1,11 +1,13 @@
 <h1 align="center">Hi everyone👋, I'm Fırat Demir</h1>
-<h3 align="center">Web3 enthusiast and web developer</h3>
+<h3 align="center">Web3 enthusiast and Front-End/Back-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demirfirat&label=Profile%20views&color=599122&style=flat" alt="demirfirat" /> </p>
 
 - 📫 How to reach me **firat.23d@gmail.com**
 
 - 📄 Know about my experiences [https://twitter.com/RatToliverkali](https://twitter.com/RatToliverkali)
+
+- 🧠 I'm learning HTML, CSS, Javascript, React, Redux, Bootstrap
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
