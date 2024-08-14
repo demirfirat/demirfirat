@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **firat.23d@gmail.com**
 
-- 📄 Know about my experiences [https://twitter.com/RatToliverkali](https://twitter.com/RatToliverkali)
+- 📄 Know about my experiences [https://www.linkedin.com/in/demirfirat/](https://www.linkedin.com/in/demirfirat/)
 
 - 🧠 I'm learning HTML, CSS, Javascript, React, Redux, Bootstrap
 
