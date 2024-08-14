@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **firat.23d@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/demirfirat/](https://www.linkedin.com/in/demirfirat/)
+- 📄 Know about my experiences <a target="blank">[https://www.linkedin.com/in/demirfirat/](https://www.linkedin.com/in/demirfirat/)
 
 - 🧠 I'm learning HTML, CSS, Javascript, React, Redux, Bootstrap
 
