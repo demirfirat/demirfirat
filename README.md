@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone👋, I'm Fırat Demir</h1>
-<h3 align="center">Web3 enthusiast and Front-End/Back-End Developer</h3>
+<h3 align="center">Web3 enthusiast and Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demirfirat&label=Profile%20views&color=599122&style=flat" alt="demirfirat" /> </p>
 
@@ -7,7 +7,11 @@
 
 - 📄 Know about my experiences <a target="blank">[https://www.linkedin.com/in/demirfirat/](https://www.linkedin.com/in/demirfirat/) </a>
 
+- 🔭 I’m currently working with JavaScript and React.js.
+
 - 🧠 I'm learning HTML, CSS, Javascript, React, Redux, Bootstrap
+  
+-  💬 Ask me about CSS, JavaScript, React.js, cloud services
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
