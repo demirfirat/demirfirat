@@ -1,7 +1,6 @@
 <h1 align="center">Hi everyone👋, I'm Fırat Demir</h1>
 <h3 align="center">Web3 enthusiast and Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=demirfirat&label=Profile%20views&color=599122&style=flat" alt="demirfirat" /> </p>
 
 - 📫 How to reach me **firat.23d@gmail.com**
 
