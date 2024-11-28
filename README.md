@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working with JavaScript and React.js.
 
-- 🧠 I'm learning HTML, CSS, Javascript, React, Redux, Bootstrap
+- 🧠 I'm learning PHP, Laravel, React.js
   
 -  💬 Ask me about CSS, JavaScript, React.js, cloud services
 
