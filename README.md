@@ -1,5 +1,5 @@
 ```
-export function ComputerProgrammer () => {
+export function ComputerProgrammer () {
 const me = {
 name: "Fırat Demir",
 role: "Frontemd Developer",
