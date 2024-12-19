@@ -3,7 +3,7 @@ export function ComputerProgrammer () => {
 const me = {
 name: "Fırat Demir",
 role: "Frontemd Developer",
-code: ["JavaScript", "TypeScript", "React.js", "PHP", "HTML", "CSS"]
+code: ["JavaScript", "TypeScript", "React.js", "PHP", "HTML", "CSS"],
 knowledge_base: [
 "Software Engineering",
 "Web Programming"
