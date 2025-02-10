@@ -2,7 +2,7 @@
 export function ComputerProgrammer () {
 const me = {
 name: "Fırat Demir",
-role: "Frontemd Developer",
+role: "Frontend Developer",
 code: ["JavaScript", "TypeScript", "React.js", "PHP", "HTML", "CSS"],
 knowledge_base: [
 "Software Engineering",
