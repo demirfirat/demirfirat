@@ -3,7 +3,7 @@ export function ComputerProgrammer () {
 const me = {
 name: "Fırat Demir",
 role: "Frontend Developer",
-code: ["JavaScript", "TypeScript", "React.js", "PHP", "HTML", "CSS"],
+code: ["JavaScript", "TypeScript", "React.js", "Next.js", "HTML", "CSS", "D3js"],
 knowledge_base: [
 "Software Engineering",
 "Web Programming"
@@ -13,7 +13,7 @@ const say_hi = (me) => {
 I'm a web3 enthusiast ${me.role}.
 console.log(`Hello my friend, thanks for dropping by! This is ${me.name}, I live in Turkey.
 I’m currently working with JavaScript and React.js.
-I'm learning PHP, Laravel, React.js.)};
+I'm learning TypeScript, D3js, Next.js.)};
 say_hi(me);
 }
 ```
