@@ -1,20 +1,28 @@
 ```ts
-export function ComputerProgrammer () {
-const me = {
-name: "Fırat Demir",
-role: "Frontend Developer",
-code: ["JavaScript", "TypeScript", "React.js", "Next.js", "HTML", "CSS", "D3js"],
-knowledge_base: [
-"Software Engineering",
-"Web Programming"
-  ]
+type Developer = {
+  name: string;
+  role: string;
+  code: string[];
+  knowledgeBase: string[];
 };
-const say_hi = (me) => {
-I'm a web3 enthusiast ${me.role}.
-console.log(`Hello my friend, thanks for dropping by! This is ${me.name}, I live in Turkey.
-I’m currently working with JavaScript and React.js.
-I'm learning TypeScript, D3js, Next.js.)};
-say_hi(me);
+
+export function ComputerProgrammer() {
+  const me: Developer = {
+    name: "Fırat Demir",
+    role: "Frontend Developer",
+    code: ["JavaScript", "TypeScript", "React.js", "Next.js", "HTML", "CSS", "D3.js"],
+    knowledgeBase: ["Software Engineering", "Web Programming"],
+  };
+
+  const sayHi = (dev: Developer): void => {
+    console.log(
+      `Hello my friend, thanks for dropping by!
+      This is ${dev.name} — a passionate ${dev.role} from Turkey.
+      I’m currently working with JavaScript, React.js and exploring Web3 technologies.
+      I’m also learning TypeScript, D3.js and Next.js to level up my frontend journey.`
+          );
+      };
+  sayHi(me);
 }
 ```
 - 📫 How to reach me **ksqhkfenode@yandex.com**
