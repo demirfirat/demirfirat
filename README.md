@@ -10,7 +10,7 @@ export function ComputerProgrammer() {
   const me: Developer = {
     name: "Fırat Demir",
     role: "Frontend Developer",
-    code: ["JavaScript", "TypeScript", "React.js", "Next.js", "HTML", "CSS", "D3.js"],
+    code: ["JavaScript", "TypeScript", "React.js", "Next.js", "HTML", "CSS"],
     knowledgeBase: ["Software Engineering", "Web Programming"],
   };
 
@@ -19,7 +19,7 @@ export function ComputerProgrammer() {
       `Hello my friend, thanks for dropping by!
       This is ${dev.name} — a passionate ${dev.role} from Turkey.
       I’m currently working with JavaScript, React.js and exploring Web3 technologies.
-      I’m also learning TypeScript, D3.js and Next.js to level up my frontend journey.`
+      I’m also learning TypeScript, Next.js to level up my frontend journey.`
           );
       };
   sayHi(me);
